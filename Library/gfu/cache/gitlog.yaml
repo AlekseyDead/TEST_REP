@@ -1,0 +1,774 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-07-08T21:45:19.710+03:00
+  initializedAtString: 2020-07-08T21:13:35.776+03:00
+  log:
+  - commitID: 09883005b411c996fe1127af86911737202b7673
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: 1
+    description: 1
+    timeString: 2020-07-08T21:39:40.000+03:00
+    commitTimeString: 2020-07-08T21:39:40.000+03:00
+    changes:
+    - path: Library\Artifacts\00\00901e4a02af921fbf0c7c2d2ec5f839
+      fullPath: C:\MY GAMES\TESTING\Library\Artifacts\00\00901e4a02af921fbf0c7c2d2ec5f839
+      projectPath: Library\Artifacts\00\00901e4a02af921fbf0c7c2d2ec5f839
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: a35fa63980ec207544790368767f55efc629f99a
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: 1
+    description: 1
+    timeString: 2020-07-08T21:39:24.000+03:00
+    commitTimeString: 2020-07-08T21:39:24.000+03:00
+    changes:
+    - path: Library\Artifacts\00\001ede8a8e0cf30c004e427a663c71db
+      fullPath: C:\MY GAMES\TESTING\Library\Artifacts\00\001ede8a8e0cf30c004e427a663c71db
+      projectPath: Library\Artifacts\00\001ede8a8e0cf30c004e427a663c71db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: c671301c533b9490682ab804b5a0779239bf2816
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: a
+    description: aaa
+    timeString: 2020-07-08T21:36:43.000+03:00
+    commitTimeString: 2020-07-08T21:36:43.000+03:00
+    changes:
+    - path: Library\Artifacts\00\000b7f5e626b445c9bdf4f3db9ca39da
+      fullPath: C:\MY GAMES\TESTING\Library\Artifacts\00\000b7f5e626b445c9bdf4f3db9ca39da
+      projectPath: Library\Artifacts\00\000b7f5e626b445c9bdf4f3db9ca39da
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9e97b1595fb74431b9cb7e6fef9cc99570f7997d
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: a
+    description: a
+    timeString: 2020-07-08T21:28:20.000+03:00
+    commitTimeString: 2020-07-08T21:28:20.000+03:00
+    changes:
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5cc1c02be39555328fe86b6351b8a35d3049d5b1
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: Revert "Initial commit"
+    description: This reverts commit 1e99f61db7212e502f28c0d8398d671cf3e1e483.
+    timeString: 2020-07-08T21:28:06.000+03:00
+    commitTimeString: 2020-07-08T21:28:06.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\MY GAMES\TESTING\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\MY GAMES\TESTING\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\MY GAMES\TESTING\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 779b926cc798a348def893ab5a8e97f711b58212
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: a
+    description: a
+    timeString: 2020-07-08T21:24:15.000+03:00
+    commitTimeString: 2020-07-08T21:24:15.000+03:00
+    changes:
+    - path: Assets\New Folder.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\New Folder.meta
+      projectPath: Assets\New Folder.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d9ca4dbdcd4478def91281fcc12a1d61bee0ebbe
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: dsadasd
+    description: dsdsa
+    timeString: 2020-07-08T21:15:16.000+03:00
+    commitTimeString: 2020-07-08T21:15:16.000+03:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Cube.prefab
+      fullPath: C:\MY GAMES\TESTING\Assets\Scenes\Cube.prefab
+      projectPath: Assets\Scenes\Cube.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Cube.prefab.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Scenes\Cube.prefab.meta
+      projectPath: Assets\Scenes\Cube.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\MY GAMES\TESTING\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\MY GAMES\TESTING\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\MY GAMES\TESTING\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\MY GAMES\TESTING\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\MY GAMES\TESTING\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 1e99f61db7212e502f28c0d8398d671cf3e1e483
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: Initial commit
+    description: 
+    timeString: 2020-07-08T21:13:35.000+03:00
+    commitTimeString: 2020-07-08T21:13:35.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\MY GAMES\TESTING\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\MY GAMES\TESTING\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\MY GAMES\TESTING\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
