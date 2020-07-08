@@ -13,9 +13,93 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-07-08T21:49:17.623+03:00
+  lastUpdatedAtString: 2020-07-08T21:50:25.467+03:00
   initializedAtString: 2020-07-08T21:13:35.776+03:00
   log:
+  - commitID: 82d0ef0dbe2ab217cdf50f0c085dea15970a5a53
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: 20
+    description: 20
+    timeString: 2020-07-08T21:50:24.000+03:00
+    commitTimeString: 2020-07-08T21:50:24.000+03:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0ef21ad2b17b4847135e30d9c2ef4df01ec4e11f
+    mergeA: 
+    mergeB: 
+    authorName: AlekseyDead
+    authorEmail: AlekseyDead1@yandex.ru
+    commitEmail: AlekseyDead1@yandex.ru
+    commitName: AlekseyDead
+    summary: 10
+    description: 10
+    timeString: 2020-07-08T21:50:15.000+03:00
+    commitTimeString: 2020-07-08T21:50:15.000+03:00
+    changes:
+    - path: Library\SourceAssetDB
+      fullPath: C:\MY GAMES\TESTING\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\MY GAMES\TESTING\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a0c578bd374156af347449c9deb66611b3b27e4a
     mergeA: 
     mergeB: 
